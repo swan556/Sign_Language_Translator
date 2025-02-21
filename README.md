@@ -6,10 +6,10 @@ This project is a deep learning-based ASL alphabet recognition system that detec
 - Uses a trained deep learning model for real-time ASL alphabet recognition.
 - Supports classification of all 26 alphabets in ASL.
 - Can be expanded with more data for better accuracy.
-- Image references for different gestures (to be added).
+- Image references for different gestures (https://d.newsweek.com/en/full/584462/04-28-signlanguage-01.jpg).
 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/swan556/Sign_Language_Translator.git
+   cd Sign_Language_Translator
