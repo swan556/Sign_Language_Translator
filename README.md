@@ -2,6 +2,13 @@
 
 This project is a deep learning-based American Sign Language (ASL) alphabet recognition system that detects letters based on hand gestures. Built with TensorFlow, it classifies images of hand signs into corresponding alphabets.
 
+## Check out our project
+https://glittery-tanuki-240cf1.netlify.app/
+steps:
+-click on the start button on top right corner
+-Let the code initialize properly for some time(20seconds)
+-enjoy!
+
 ## Features
 - Real-time ASL alphabet recognition using a trained deep learning model.
 - Supports classification of all 26 alphabets in ASL.
@@ -23,3 +30,5 @@ This project is a deep learning-based American Sign Language (ASL) alphabet reco
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
+
+
