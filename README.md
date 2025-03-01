@@ -87,7 +87,7 @@ npm run dev
 
 ### *4️⃣ Open in browser*
 
-[http://localhost:5173/](https://glittery-tanuki-240cf1.netlify.app/)
+(https://glittery-tanuki-240cf1.netlify.app/)
 
 
 ## 📌 Future Enhancements
